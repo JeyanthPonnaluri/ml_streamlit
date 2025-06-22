@@ -48,5 +48,4 @@ if __name__ == "__main__":
         'Previous_Score': [75]
     })
 
-    predicted_score = model.predict(new_data)
-    print(f"Predicted Score in next innings: {predicted_score[0]:.2f}")
+    
